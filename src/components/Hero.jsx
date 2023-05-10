@@ -3,13 +3,13 @@ import { logo } from "../assets";
 const Hero = () => {
   return (
     <header className='w-full flex justify-center items-center flex-col'>
-      <nav className="flex justify-center w-full items-center mb-10 pt-3">
-        <img src={logo} alt='sumz_logo' className='w-28 object-contain'></img>
+      <nav className="myCustom">
+        <img src={logo} alt='sumz_logo' className='w-28 object-contain' />
 
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/TidbitsJS/Summize", "_blank")
+            window.open("https://github.com/SalamanderCtesiphon/open-ai-article-summerizer", "_blank")
           }
           className='black_btn'
         >
