@@ -1,0 +1,3 @@
+Open AI article summerizer is a single page web application that was built with ReactJS. 
+
+This application leverages the power of the Rapid API's open AI ChapGPT4 engine to provide concise summaries of news articles and webpages. The website itself was developed using Vite, a fast and efficient build tool, and seamlessly deployed on the reliable Firebase platform, ensuring optimal performance and accessibility.
